@@ -1,5 +1,8 @@
-# Godot generated files
+# Godot generated cache
 .godot/
+
+# Godot platform build directories
+/android/
 
 # Exported builds
 /builds/
