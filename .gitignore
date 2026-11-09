@@ -1,0 +1,23 @@
+# Godot generated files
+.godot/
+
+# Exported builds
+/builds/
+/exports/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Windows generated files
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
